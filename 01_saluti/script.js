@@ -5,9 +5,17 @@ const userName = 'Mario';
 
 // Dichiara la funzione qui.
 
+function helloo ( ) {
+    
+    console.log('Ciao ' + userName);
+    
+}
+
+
 
 // Invoca la funzione qui e stampa il risultato in console
 
+helloo()
 
 
-//Risultato atteso se si passa 'Mario': // ciao Mario
+// Risultato atteso se si passa 'Mario': // ciao Mario
